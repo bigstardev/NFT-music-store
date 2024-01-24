@@ -1,0 +1,20 @@
+{
+  "name": "tetavi-client",
+  "drawers": [
+    {
+      "name": "Learn more",
+      "description": "Click Here",
+      "id": "learn"
+    },
+    {
+      "name": "Terms & Conditions",
+      "description": "Click Here",
+      "id": "terms"
+    },
+    {
+      "name": "Privacy Policy",
+      "description": "Click Here",
+      "id": "privacy"
+    }
+  ]
+}

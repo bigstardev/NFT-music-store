@@ -1,4 +1,4 @@
-# tetavi-client
+# NFT Music store
 
 ## Available Scripts
 
